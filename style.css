@@ -1,0 +1,30 @@
+#title{
+  font-size: 8em;
+  font-family: "Fredericka the Great";
+}
+
+.para{
+  padding: 50px;
+  font-size: 1.2em;
+  position: flex;
+}
+
+#alignwithfilm{
+  padding-top: 30px;
+  width: 40%;
+  display: block;
+  float: right;
+}
+
+iframe{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.blank{
+  padding-top: 30px;
+}
